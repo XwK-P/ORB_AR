@@ -15,4 +15,8 @@ ORB_AR is a real-time AR application using ORB-SLAM2 as camera tracking method. 
 * libpng
 
 ## Demonstration
-<iframe width="420" height="315" src="https://www.youtube.com/embed/xljy3JuiB3w" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xljy3JuiB3w
+" target="_blank"><img src="http://img.youtube.com/vi/xljy3JuiB3w/0.jpg" 
+alt="Tsukuba Dataset" width="420" height="315" border="10" /></a>
+
+(https://www.youtube.com/watch?v=xljy3JuiB3w)
