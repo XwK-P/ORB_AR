@@ -1,7 +1,7 @@
 # ORB_AR
 **Authors:** Puyang Wang, Raul Mur-Artal *et al*([ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2))
 
-[[Paper Link](https://www.dropbox.com/s/222oxk0echirt60/capstone-final-report.pdf?dl=0])  
+[[Paper Link]](https://www.dropbox.com/s/222oxk0echirt60/capstone-final-report.pdf?dl=0])  
 
 ORB_AR is a real-time AR application using ORB-SLAM2 as camera tracking method. Currently, it is only compatiable with stereo camera and does not contains stereo calibration part. Users should calibrate their stereo camera on their own and change ``` Extrinsics.xml```, ```Remap.xml``` and ```StereoCam.yaml``` accordingly.
 
